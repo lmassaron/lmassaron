@@ -1,4 +1,4 @@
-# HI, I'M LUCA
+# Hi, I'm Luca
 
 I am a **Senior Data Science Expert** at illimity Bank, a **Google Developer Expert (GDE)**, and a **2x Kaggle Grandmaster** (previously ranked #7 worldwide). With over 20 years of experience, I specialize in solving complex challenges in banking, finance, and insurance through Machine Learning and AI.
 
@@ -18,12 +18,12 @@ I am a **Senior Data Science Expert** at illimity Bank, a **Google Developer Exp
 I've written extensively to bridge the gap between complex AI concepts and practical application.
 
 <p align="center">
-  <a href="https://www.amazon.com/Data-Analysis-Machine-Learning-Kaggle/dp/1801817472">
-    <img src="https://m.media-amazon.com/images/I/81-v6-v6-vL.jpg" width="180" alt="The Kaggle Book">
+  <a href="https://www.amazon.com/Kaggle-Book-science-competitions-Learning/dp/183508320X">
+    <img src="kagglebook.jpg" width="180" alt="The Kaggle Book, 2nd ed">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.amazon.com/Machine-Learning-Tabular-Data-XGBoost/dp/1633438546">
-    <img src="https://images.manning.com/360/480/resize/book/a/854566c-678c-478c-878c-878c878c878c/Ryan-MLTD-HI.png" width="180" alt="Machine Learning on Tabular Data">
+    <img src="MLTabular.jpg" width="180" alt="Machine Learning on Tabular Data">
   </a>
 </p>
 
@@ -40,10 +40,10 @@ I've written extensively to bridge the gap between complex AI concepts and pract
 
 I maintain several repositories focused on cutting-edge ML and AI research:
 
-*   **[deep-learning-for-tabular-data](https://github.com/lmassaron/deep-learning-for-tabular-data):** A 2025 guide comparing Keras 3 (PyTorch backend) and XGBoost.
 *   **[gemma_from_scratch](https://github.com/lmassaron/gemma_from_scratch):** Educational implementation of the Gemma 3 architecture.
 *   **[kaggledays-2019-gbdt](https://github.com/lmassaron/kaggledays-2019-gbdt):** Workshop materials for GBDT optimization from Kaggle Days Paris.
 *   **[Gemma-2-2B-IT-GRPO](https://github.com/lmassaron/Gemma-2-2B-IT-GRPO):** Fine-tuning Gemma 2 using Generative Reward Post-Optimization.
+*   **[deep-learning-for-tabular-data](https://github.com/lmassaron/deep-learning-for-tabular-data):** A 2025 guide comparing Keras 3 (PyTorch backend) and XGBoost.
 
 ---
 
