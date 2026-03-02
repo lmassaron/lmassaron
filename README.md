@@ -59,5 +59,5 @@ I maintain several repositories focused on cutting-edge ML and AI research:
 
 *   [Personal Website](https://lmassaron.github.io/)
 *   [Amazon Author Page](https://www.amazon.com/stores/Luca-Massaron/author/B00RW7GV02)
-*   [Kaggle Profile](https://www.kaggle.com/lmassaron)
-*   [LinkedIn](https://www.linkedin.com/in/lucamassaron/)
+*   [Kaggle Profile](https://www.kaggle.com/lucamassaron)
+*   [LinkedIn](https://www.linkedin.com/in/lmassaron/)
