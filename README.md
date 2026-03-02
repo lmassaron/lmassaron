@@ -18,6 +18,14 @@ I am a **Senior Data Science Expert** at illimity Bank, a **Google Developer Exp
 I've written extensively to bridge the gap between complex AI concepts and practical application.
 
 <p align="center">
+  <a href="https://www.amazon.com/Artificial-Intelligence-Dummies-Computer-Tech/dp/1394270712">
+    <img src="AIDummies.jpg" width="180" alt="Artificial Intelligence For Dummies, 3rd ed">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.amazon.com/Machine-Learning-Dummies-Computer-Tech/dp/1394373228">
+    <img src="MLDummies.jpg" width="180" alt="Machine Learning For Dummies, 3rd ed">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.amazon.com/Kaggle-Book-science-competitions-Learning/dp/183508320X">
     <img src="kagglebook.jpg" width="180" alt="The Kaggle Book, 2nd ed">
   </a>
