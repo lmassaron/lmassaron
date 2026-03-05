@@ -6,10 +6,10 @@ I am a **Senior Data Science Expert** at illimity Bank, a **Google Developer Exp
 
 ### WHAT I'M WORKING ON
 
-*   **Large Language Models (LLMs):** Recently, I've been focused on fine-tuning and implementing Google's **Gemma 2 and Gemma 3** models, including techniques like **Generative Reward Post-Optimization (GRPO)**.
+*   **Large Language Models (LLMs):** Recently, I've been focused on fine-tuning Google's **Gemma 2 and Gemma 3** models, including techniques like **Generative Reward Post-Optimization (GRPO)**.
 *   **Tabular Data & Deep Learning:** Continuing my work on making deep learning more accessible and effective for tabular datasets, often linked to my research and books.
-*   **Authoring:** I have authored or co-authored over **15 books** on data science and AI, including the "For Dummies" series for Wiley and Manning.
-*   **Community & Mentorship:** I am an active mentor for the **KaggleX BIPOC Mentorship Program** and frequently speak at international conferences and meetups.
+*   **Authoring:** I have authored or co-authored over **15 books** on data science and AI, including the "For Dummies" series for Wiley and a book on tabular machine learning for Manning.
+* **Community & Mentorship:** I am a Google Developer Expert (GDE) in AI, Cloud, and Kaggle. I have been a mentor for the **KaggleX BIPOC Mentorship Program** and frequently speak at international conferences and meetups.
 
 ---
 
@@ -39,7 +39,7 @@ I've written extensively to bridge the gap between complex AI concepts and pract
 | :--- | :--- | :--- |
 | **Artificial Intelligence For Dummies** | Wiley | A comprehensive guide to AI for all levels. |
 | **Machine Learning For Dummies** | Wiley | An introduction to core concepts and algorithms. |
-| **The Kaggle Book** | Packt | A comprehensive guide to winning data science competitions. |
+| **The Kaggle Book** | Packt | A comprehensive guide to mastering data science competitions. |
 | **Machine Learning on Tabular Data** | Manning | Practical techniques for working with tabular datasets. |
 
 ---
