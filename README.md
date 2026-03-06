@@ -1,6 +1,6 @@
 # Hi, I'm Luca
 
-I am a **Senior Data Science Expert** at illimity Bank, a **Google Developer Expert (GDE)**, and a **2x Kaggle Grandmaster** in competitions and notebooks (previously ranked #7 worldwide for competitions). With over 20 years of experience, I specialize in solving complex challenges in banking, finance, and insurance through Machine Learning and AI.
+I am a **[Senior Data Science Expert](https://www.linkedin.com/in/lmassaron/)** at illimity Bank, a **[Google Developer Expert (GDE)](https://developers.google.com/community/experts/directory?text=luca%20massaron)**, and a **[2x Kaggle Grandmaster](https://www.kaggle.com/lucamassaron)** in competitions and notebooks (previously ranked #7 worldwide for competitions). With over 20 years of experience, I specialize in solving complex challenges in banking, finance, and insurance through Machine Learning and AI.
 
 ---
 
