@@ -15,7 +15,8 @@ I am a **[Senior Data Science Expert](https://www.linkedin.com/in/lmassaron/)** 
 
 ### BOOKS
 
-I've written extensively to bridge the gap between complex AI concepts and practical application.
+I've written extensively to bridge the gap between complex AI concepts and practical applications. 
+Among my most recent works:
 
 <p align="center">
   <a href="https://www.amazon.com/Artificial-Intelligence-Dummies-Computer-Tech/dp/1394270712">
