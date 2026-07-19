@@ -19,6 +19,10 @@ I've written extensively to bridge the gap between complex AI concepts and pract
 Among my most recent works:
 
 <p align="center">
+  <a href="https://www.barnesandnoble.com/w/fine-tuning-large-and-small-language-models-luca-massaron/1150203401?ean=9781394430970">
+    <img src="finetuning.jpg" width="180" alt="Fine-Tuning Large and Small Language Models">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.amazon.com/Artificial-Intelligence-Dummies-Computer-Tech/dp/1394270712">
     <img src="AIDummies.jpg" width="180" alt="Artificial Intelligence For Dummies, 3rd ed">
   </a>
@@ -38,6 +42,7 @@ Among my most recent works:
 
 | Book | Publisher | Focus |
 | :--- | :--- | :--- |
+| **Fine-Tuning Large and Small Language Models** | Wiley | Fine-tune open-source language models with LoRA, QLoRA, and Hugging Face tools. |
 | **Artificial Intelligence For Dummies** | Wiley | A comprehensive guide to AI for all levels. |
 | **Machine Learning For Dummies** | Wiley | An introduction to core concepts and algorithms. |
 | **The Kaggle Book** | Packt | A comprehensive guide to mastering data science competitions. |
