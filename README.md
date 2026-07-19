@@ -6,7 +6,7 @@ I am a **[Data Scientist](https://www.linkedin.com/in/lmassaron/)**, a **[Google
 
 ### WHAT I'M WORKING ON
 
-*   **Large Language Models (LLMs):** Recently, I've been focused on fine-tuning Google's **Gemma 2 and Gemma 3** models, including techniques like **Generative Reward Post-Optimization (GRPO)**.
+*   **Large Language Models (LLMs):** Recently, I've been focused on fine-tuning Google's **Gemma 3 and Gemma 4** models, including techniques like **Generative Reward Post-Optimization (GRPO)**.
 *   **Tabular Data & Deep Learning:** Continuing my work on making deep learning more accessible and effective for tabular datasets, often linked to my research and books.
 *   **Authoring:** I have authored or co-authored over **15 books** on data science and AI, including the "For Dummies" series for Wiley and a book on tabular machine learning for Manning.
 * **Community & Mentorship:** I am a Google Developer Expert (GDE) in AI, Cloud, and Kaggle. I have been a mentor for the **KaggleX BIPOC Mentorship Program** and frequently speak at international conferences and meetups.
