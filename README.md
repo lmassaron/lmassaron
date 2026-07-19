@@ -20,23 +20,23 @@ Among my most recent works:
 
 <p align="center">
   <a href="https://www.barnesandnoble.com/w/fine-tuning-large-and-small-language-models-luca-massaron/1150203401?ean=9781394430970">
-    <img src="finetuning.jpg" width="180" alt="Fine-Tuning Large and Small Language Models">
+    <img src="finetuning.jpg" width="145" alt="Fine-Tuning Large and Small Language Models">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.amazon.com/Artificial-Intelligence-Dummies-Computer-Tech/dp/1394270712">
-    <img src="AIDummies.jpg" width="180" alt="Artificial Intelligence For Dummies, 3rd ed">
+    <img src="AIDummies.jpg" width="145" alt="Artificial Intelligence For Dummies, 3rd ed">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.amazon.com/Machine-Learning-Dummies-Computer-Tech/dp/1394373228">
-    <img src="MLDummies.jpg" width="180" alt="Machine Learning For Dummies, 3rd ed">
+  <a href="https://www.amazon.com/Machine-Learning-Dummies-Computer-Tech/dp/1394373228">
+    <img src="MLDummies.jpg" width="145" alt="Machine Learning For Dummies, 3rd ed">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.amazon.com/Kaggle-Book-science-competitions-Learning/dp/183508320X">
-    <img src="kagglebook.jpg" width="180" alt="The Kaggle Book, 2nd ed">
+    <img src="kagglebook.jpg" width="145" alt="The Kaggle Book, 2nd ed">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.amazon.com/Machine-Learning-Tabular-Data-XGBoost/dp/1633438546">
-    <img src="MLTabular.jpg" width="180" alt="Machine Learning on Tabular Data">
+    <img src="MLTabular.jpg" width="145" alt="Machine Learning on Tabular Data">
   </a>
 </p>
 
