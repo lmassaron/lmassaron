@@ -19,7 +19,7 @@ I've written extensively to bridge the gap between complex AI concepts and pract
 Among my most recent works:
 
 <p align="center">
-  <a href="https://www.barnesandnoble.com/w/fine-tuning-large-and-small-language-models-luca-massaron/1150203401?ean=9781394430970">
+  <a href="https://www.amazon.com/Fine-Tuning-Large-Small-Language-Models/dp/1394430973">
     <img src="finetuning.jpg" width="145" alt="Fine-Tuning Large and Small Language Models">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
