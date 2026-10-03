@@ -1,6 +1,6 @@
 # Hi, I'm Luca
 
-I am an **[expert in data, analytics, models and algorithms](https://www.linkedin.com/in/lmassaron/)**. Recognized as a **[Google Developer Expert (GDE)](https://developers.google.com/community/experts/directory?text=luca%20massaron)**, and a **[Kaggle Grandmaster](https://www.kaggle.com/lucamassaron)** in competitions and notebooks (previously ranked #7 worldwide for competitions). I bring over 20 years of experience to solving complex challenges in banking, finance, and insurance through Algorithms, Machine Learning and AI.
+I am an **[expert in data, analytics, algorithms, models and artificial intelligence](https://www.linkedin.com/in/lmassaron/)**. Recognized as a **[Google Developer Expert (GDE)](https://developers.google.com/community/experts/directory?text=luca%20massaron)**, and a **[Kaggle Grandmaster](https://www.kaggle.com/lucamassaron)** in competitions and notebooks (previously ranked #7 worldwide for competitions). I bring over 20 years of experience to solving complex challenges in banking, finance, and insurance through Algorithms, Machine Learning and AI.
 
 ---
 
