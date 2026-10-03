@@ -1,6 +1,6 @@
 # Hi, I'm Luca
 
-I am an **[expert in data, analytics, models and algorithms](https://www.linkedin.com/in/lmassaron/)**, a **[Google Developer Expert (GDE)](https://developers.google.com/community/experts/directory?text=luca%20massaron)**, and a **[Kaggle Competitions Grandmaster](https://www.kaggle.com/lucamassaron)** in competitions and notebooks (previously ranked #7 worldwide for competitions). With over 20 years of experience, I specialize in solving complex challenges in banking, finance, and insurance through Machine Learning and AI.
+I am an **[expert in data, analytics, models and algorithms](https://www.linkedin.com/in/lmassaron/)**. Recognized as a **[Google Developer Expert (GDE)](https://developers.google.com/community/experts/directory?text=luca%20massaron)**, and a **[Kaggle Grandmaster](https://www.kaggle.com/lucamassaron)** in competitions and notebooks (previously ranked #7 worldwide for competitions). I bring over 20 years of experience to solving complex challenges in banking, finance, and insurance through Algorithms, Machine Learning and AI.
 
 ---
 
@@ -8,8 +8,8 @@ I am an **[expert in data, analytics, models and algorithms](https://www.linkedi
 
 *   **Large Language Models (LLMs):** Recently, I've been focused on fine-tuning Google's **Gemma 3 and Gemma 4** models, including techniques like **Generative Reward Post-Optimization (GRPO)**.
 *   **Tabular Data & Deep Learning:** Continuing my work on making deep learning more accessible and effective for tabular datasets, often linked to my research and books.
-*   **Authoring:** I have authored or co-authored over **15 books** on data science and AI, including the "For Dummies" series for Wiley and a book on tabular machine learning for Manning.
-* **Community & Mentorship:** I am a Google Developer Expert (GDE) in AI, Cloud, and Kaggle. I have been a mentor for the **KaggleX BIPOC Mentorship Program** and frequently speak at international conferences and meetups.
+*   **Authoring:** I have authored over **15 books** on data science and AI, including many titles in the "For Dummies" series for Wiley and a book on tabular machine learning for Manning.
+* **Community & Mentorship:** I am a Google Developer Expert (GDE) in AI and machine learning. I have been a mentor for the **KaggleX BIPOC Mentorship Program** and frequently speak at international conferences and meetups.
 
 ---
 
