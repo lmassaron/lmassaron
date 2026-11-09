@@ -55,8 +55,9 @@ Among my most recent works:
 I maintain several repositories focused on cutting-edge ML and AI research:
 
 *   **[gemma_from_scratch](https://github.com/lmassaron/gemma_from_scratch):** Educational implementation of the Gemma 3 architecture.
+*   **[fine-tuning workshop](https://github.com/lmassaron/fine-tuning-workshop):** Workshop materials on fine-tuning small language models
 *   **[kaggledays-2019-gbdt](https://github.com/lmassaron/kaggledays-2019-gbdt):** Workshop materials for GBDT optimization from Kaggle Days Paris.
-*   **[Gemma-2-2B-IT-GRPO](https://github.com/lmassaron/Gemma-2-2B-IT-GRPO):** Fine-tuning Gemma 2 using Generative Reward Post-Optimization.
+*   **[gemma-2-2B-IT-GRPO](https://github.com/lmassaron/Gemma-2-2B-IT-GRPO):** Fine-tuning Gemma 2 using Generative Reward Post-Optimization.
 *   **[deep-learning-for-tabular-data](https://github.com/lmassaron/deep-learning-for-tabular-data):** A 2025 guide comparing Keras 3 (PyTorch backend) and XGBoost.
 
 ---
